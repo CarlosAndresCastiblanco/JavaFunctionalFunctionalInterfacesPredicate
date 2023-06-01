@@ -1,0 +1,2 @@
+# JavaFunctionalFunctionalInterfacesPredicate
+Describe Predicate Functional Interface inside function Package
